@@ -17,7 +17,7 @@ This project aims at matching products based on attributes scraped from various 
 * The *submission.csv* file in the *submission* folder contains the final matched products
 * The executable Jupyter notebook contained in the `code` folder can be run to reproduce the results. Note - The notebook was created on JupyterLab using Python 3.6
 * In order to run the notebook, the *dataset.jsonl.gz* file in the data folder needs to be extracted in the same folder first
-* Intermediate datasets generated are provided as a zip, so that execution can be done for specific sections of the notebook
+* Intermediate datasets generated are provided as a compressed folder, so that execution can be done for specific sections of the notebook, by extracting these into the *data* folder*
 
 # Folder structure
 
